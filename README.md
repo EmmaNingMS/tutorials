@@ -11,7 +11,7 @@ These images are available for convenience to get started with ONNX and tutorial
 
 * Choose a pre-trained ONNX model from the [ONNX Model Zoo](https://github.com/onnx/models). Many pre-trained ONNX models are provided for common scenarios.
 * Use services like [Azure Custom Vision service](https://docs.microsoft.com/en-us/azure/cognitive-services/Custom-Vision-Service/custom-vision-onnx-windows-ml) that generate customized ONNX models for your data
-* Convert models from various frameworks 
+* Convert models from various frameworks (see below) 
 
 
 ## Converting to ONNX format
